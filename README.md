@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./background-dark.svg">
+  <img src="./background-light.svg" alt="Header background">
+</picture>
+
 ## Hi there 👋
 
 <!--
